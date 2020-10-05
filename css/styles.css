@@ -1,31 +1,36 @@
 body {
-  color: #323232;
-  background: #ffdd73;
+  color: #ffdb88;
+  background: #101322;
   text-align: center;
   font-family: 'Helvetica', 'Arial', sans-serif;
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 0;
   padding-left: 20px; }
+  body span {
+    background: white;
+    color: #101322;
+    padding-left: 10px;
+    padding-right: 10px; }
   body h1 {
-    color: #323232;
+    color: #ffdb88;
     margin-top: 10px;
     margin-bottom: 15px; }
   body h2 {
-    color: #323232;
+    color: #ffdb88;
     margin-top: 10px;
     margin-bottom: 10px; }
   body h3 {
-    color: #323232;
+    color: #ffdb88;
     margin-top: 10px;
     margin-bottom: 0px; }
   body h4 {
-    color: #323232;
+    color: #ffdb88;
     margin-top: 10px;
     margin-bottom: 0px;
     text-align: left; }
   body p {
-    color: #323232;
+    color: #ffdb88;
     padding-right: 30px; }
   body ul {
     list-style-type: disc;
@@ -33,6 +38,6 @@ body {
   body a {
     text-decoration: underline; }
     body a:hover {
-      color: #323232; }
+      color: #ffdb88; }
   body img {
     border-radius: 180px; }
